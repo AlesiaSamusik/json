@@ -1,6 +1,7 @@
-Властелин колец
-Игра престолов
-Паста
-Лето
-Италия
-.
+{
+"favorite movie": "Lord of the Rings",
+"favorite series": "Game of Thrones",
+"favorite food": "Paste",
+"favorite season": "Summer",
+"which country would like to visit": "Italy"
+}
