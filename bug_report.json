@@ -1,1 +1,14 @@
-Hello
+{
+	"summary": "INCORRECT DATA - NO NOTIFICATION",
+	"project": "mail",
+	"component": "registration",
+	"Version": 1,
+	"severity": "major",
+	"priority": "medium",
+	"status": "new",
+	"author": "samusik alesia",
+	"assigned to": "ptichkin stepan",
+	"steps to reproduce": "open page http://gmail.com/enter email address/without entering a password, press the login button",
+	"result": "no request to fill in the password field",
+	"expected result": "an alert appears asking you to enter your password"
+}
